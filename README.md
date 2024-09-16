@@ -10,9 +10,9 @@ Time spent: 4 hours
 
 The following **required** functionality is completed:
 
-* [ ] User can scroll through a list of 10 emails
-* [ ] Each email includes the following information   
-* [ ] Sender, Email title, Email summary
+* [ x] User can scroll through a list of 10 emails
+* [ x] Each email includes the following information   
+* [ x] Sender, Email title, Email summary
 
 
 
@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<Email summary />
+</>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -35,6 +35,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+No challenges 
 
 ## License
 
