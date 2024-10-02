@@ -11,7 +11,7 @@ Time spent: 4 hours
 The following **required** functionality is completed:
 
 * [ x] User can scroll through a list of 10 emails
-* [ x] Each email includes the following information   
+* [ x] Each email includes the following information:  
 * [ x] Sender, Email title, Email summary
 
 
